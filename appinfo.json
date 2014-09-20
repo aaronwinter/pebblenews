@@ -3,14 +3,20 @@
     "capabilities": [
         ""
     ],
-    "companyName": "p9anand@uwaterloo.ca",
-    "longName": "readdit1",
+    "companyName": "rrsbrg@gmail.com",
+    "longName": "GOOD SHIT RIGHT SHIT",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "name": "RESOURCE_ID_IMAGE_MENU_ICON_1",
+                "type": "png"
+            }
+        ]
     },
-    "shortName": "readdit1",
-    "uuid": "3851ba05-f2aa-49ac-a73c-1743ca8245ce",
+    "shortName": "GOOD SHIT RIGHT SHIT",
+    "uuid": "73cc4a0a-5aec-40c7-8553-afea1ce33566",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
