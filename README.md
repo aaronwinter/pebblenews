@@ -1,4 +1,4 @@
 pebblenews
 ==========
 
-Hack the norht
+Hack the north
