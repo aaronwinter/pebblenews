@@ -7,13 +7,7 @@
     "longName": "GOOD SHIT RIGHT SHIT",
     "projectType": "native",
     "resources": {
-        "media": [
-            {
-                "file": "images/menu_icon_simplicity.png",
-                "name": "RESOURCE_ID_IMAGE_MENU_ICON_1",
-                "type": "png"
-            }
-        ]
+        "media": []
     },
     "shortName": "GOOD SHIT RIGHT SHIT",
     "uuid": "73cc4a0a-5aec-40c7-8553-afea1ce33566",
