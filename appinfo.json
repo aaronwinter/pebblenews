@@ -3,14 +3,14 @@
     "capabilities": [
         ""
     ],
-    "companyName": "p9anand@uwaterloo.ca",
-    "longName": "readdit1",
+    "companyName": "rrsbrg@gmail.com",
+    "longName": "World News",
     "projectType": "native",
     "resources": {
         "media": []
     },
-    "shortName": "readdit1",
-    "uuid": "3851ba05-f2aa-49ac-a73c-1743ca8245ce",
+    "shortName": "World News",
+    "uuid": "584e84c9-cd91-4ae4-bc73-0a25af3b6499",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
