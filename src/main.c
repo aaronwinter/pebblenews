@@ -16,16 +16,17 @@ static TextLayer* init_text_layer(GRect location, GColor colour, GColor backgrou
 
 void window_load(Window *window)
 {
-  title_layer = init_text_layer(GRect(5, 5, 134, 158), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_18", GTextAlignmentLeft);
-  text_layer_set_text(title_layer, "$100B invested in wind or solar will now produce more energy than the same investment in oil");
+  
+  title_layer = init_text_layer(GRect(5, 5, 134, 100), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_18", GTextAlignmentLeft);
+  text_layer_set_text(title_layer, "China insists wealthy countries should improve emission targets if a global pact on climate change is to be reached next year. A much-anticipated UN summit will be held in Paris aiming to produce most ambitious deal yet in fight against global warming.");
   layer_add_child(window_get_root_layer(window), text_layer_get_layer(title_layer));  
   
-  link_layer = init_text_layer(GRect(0, 0, 0, 0), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_18", GTextAlignmentLeft);
-  text_layer_set_text(link_layer, "");
+  link_layer = init_text_layer(GRect(5, 118, 134, 20), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_9", GTextAlignmentLeft);
+  text_layer_set_text(link_layer, "www.bbcnews.com/yoloswag/hashtag");
   layer_add_child(window_get_root_layer(window), text_layer_get_layer(link_layer));  
   
-  comments_layer = init_text_layer(GRect(0, 0, 0, 0), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_18", GTextAlignmentLeft);
-  text_layer_set_text(comments_layer, "");
+  comments_layer = init_text_layer(GRect(5, 128, 134, 20), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_18", GTextAlignmentLeft);
+  text_layer_set_text(comments_layer, "1337 comments");
   layer_add_child(window_get_root_layer(window), text_layer_get_layer(comments_layer));  
   
 }
