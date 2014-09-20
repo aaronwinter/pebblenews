@@ -16,7 +16,7 @@ static TextLayer* init_text_layer(GRect location, GColor colour, GColor backgrou
 
 void window_load(Window *window)
 {
-  title_layer = init_text_layer(GRect(5, 10, 158, 124), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_18", GTextAlignmentLeft);
+  title_layer = init_text_layer(GRect(5, 10, 148, 124), GColorBlack, GColorClear, "RESOURCE_ID_GOTHIC_18", GTextAlignmentLeft);
   text_layer_set_text(title_layer, "$100B invested in wind or solar will now produce more energy than the same investment in oil");
   layer_add_child(window_get_root_layer(window), text_layer_get_layer(title_layer));  
   
