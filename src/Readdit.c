@@ -1,5 +1,6 @@
 #include <pebble.h>
 
+TextLayer *title_layer, *link_layer, *comments_layer;
 Window* window;
 MenuLayer* mainMenu;
 void showDetail(MenuIndex* index); // Defined in detailView.c
