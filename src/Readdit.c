@@ -75,7 +75,9 @@ void window_load(Window *window)
  
 void window_unload(Window *window)
 {
- 
+  text_layer_destroy(title_layer);
+  text_layer_destroy(link_layer);
+  text_layer_destroy(comments_layer);
 }
 
 void init(void)
