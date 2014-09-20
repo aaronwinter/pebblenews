@@ -43,151 +43,151 @@ static void window_load(Window *window) {
   // This is an example of how you'd set a simple menu item
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "1",
     .callback = menu_select_callback,
   };
   // The menu items appear in the order saved in the menu items array
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "2",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "3",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "4",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "5",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "6",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "7",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "8",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "9",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "10",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "11",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "12",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "13",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "14",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "15",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "16",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "17",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "18",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "19",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "20",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "21",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "22",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "23",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "24",
     .callback = menu_select_callback,
   };
   
   first_menu_items[num_a_items++] = (SimpleMenuItem){
     // You should give each menu item a title and callback
-    .title = "First Item",
+    .title = "25",
     .callback = menu_select_callback,
   };
 
